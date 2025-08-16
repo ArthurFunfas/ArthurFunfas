@@ -1,3 +1,15 @@
+                         
+
+
+ ![Gif](bonzi-buddy-look-up.gif)
+
+
+###
+
+Olá,seja bem vindo ao meu perfil!
+
+###
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArthurFunfas&theme=dracula)](https://git.io/streak-stats)
 
 ###
