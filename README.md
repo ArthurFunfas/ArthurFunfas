@@ -9,8 +9,6 @@
 
 ###
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/intl-pt/track/4WVa4MaKoJMGkaH0ypJQfd?si=61f7c0a818fb4a26)
-
 ###
 
 <div align="left">
