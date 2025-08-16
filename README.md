@@ -9,6 +9,10 @@
 
 ###
 
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/intl-pt/track/4WVa4MaKoJMGkaH0ypJQfd?si=61f7c0a818fb4a26)
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
